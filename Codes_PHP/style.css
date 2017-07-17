@@ -1,0 +1,29 @@
+body {
+  width: 100%;
+  height: calc(100% - 250px);
+  background-color: #FFFFFF;
+  margin: 0px;
+  color: #000000;
+  font-family: verdana;
+  padding-top: 5px;
+	text-align: center;
+}
+
+div > div {
+ 	margin: 0px;
+ 	padding: 5px;
+}
+
+#body H1 {
+	text-align : center;
+	font-size: verdana;
+}
+
+#centre p {
+	border-width:1px;
+	border-style:none;
+	border-color:black
+	display: inline-block;
+	vertical-align: middle;
+	text-align: center;
+}
